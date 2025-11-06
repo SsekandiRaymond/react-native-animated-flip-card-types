@@ -1,0 +1,30 @@
+{
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "peerDependencies": {
+        "react-native": "*"
+    },
+    "name": "@types/react-native-animated-flip-card",
+    "version": "0.1.0",
+    "description": "TypeScript definitions for react-native-animated-flip-card",
+    "main": "",
+    "scripts": {},
+    "keywords": [
+        "types",
+        "react-native-animated-flip-card",
+        "@types/react-native-animated-flip-card"
+    ],
+    "author": "ssekandi",
+    "license": "MIT",
+    "type": "commonjs",
+    "types": "index.d.ts",
+    "contributors": [
+        {
+            "name": "SsekandiRaymond",
+            "url": "https://github.com/SsekandiRaymond"
+        }
+    ],
+    "typesPublisherContentHash": "",
+    "typeScriptVersion": "5.2"
+}
